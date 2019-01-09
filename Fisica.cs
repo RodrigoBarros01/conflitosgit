@@ -10,8 +10,7 @@ namespace ResolucaoConflito
     {
         public double VelocidadeMedia(double distanciaPercorrida, double intervaloDeTempo)
         {
-            var resultado = distanciaPercorrida / intervaloDeTempo;
-            return resultado;
+            return distanciaPercorrida / intervaloDeTempo;
         }
 
     }
