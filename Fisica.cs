@@ -10,7 +10,7 @@ namespace ResolucaoConflito
     {
         public double VelocidadeMedia(double distanciaPercorrida, double intervaloDeTempo)
         {
-            return 0;
+            return distanciaPercorrida / intervaloDeTempo; 
         }
 
     }
