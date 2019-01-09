@@ -17,8 +17,7 @@ namespace ResolucaoConflito
 
         public double Subtracao(double valor1, double valor2)
         {
-            var resultado = valor1 - valor2;
-            return resultado;
+            return valor1 - valor2;
         }
 
         public double Multiplicacao(double valor1, double valor2)
@@ -29,8 +28,7 @@ namespace ResolucaoConflito
 
         public double Divisao(double valor1, double valor2)
         {
-            var resultado = valor1 / valor2;
-            return resultado;
+            return valor1 / valor2;
         }
 
         
