@@ -11,25 +11,25 @@ namespace ResolucaoConflito
 
         public double Soma(double valor1, double valor2)
         {
-            var resultado = valor1 + valor2;
-            return resultado;
+            return 0;
         } 
 
         public double Subtracao(double valor1, double valor2)
         {
-            var resultado = valor1 - valor2;
-            return resultado;
+            return 0;
         }
 
         public double Multiplicacao(double valor1, double valor2)
         {
-            var resultado = valor1 * valor2;
-            return resultado;
+            return 0;
         }
 
         public double Divisao(double valor1, double valor2)
         {
-            return  valor1 / valor2;
+            return 0;
         }
+
+        
+
     }
 }
