@@ -8,10 +8,7 @@ namespace ResolucaoConflito
 {
     public class Fisica
     {
-        public double VelocidadeMedia(double distanciaPercorrida, double intervaloDeTempo)
-        {
-            return distanciaPercorrida / intervaloDeTempo;
-        }
+        public double VelocidadeMedia(double distanciaPercorrida, double intervaloDeTempo) => distanciaPercorrida / intervaloDeTempo;
 
     }
 }
